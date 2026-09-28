@@ -4,8 +4,8 @@
 
 ---
 
-## ORIGINAL READ ME |
-                    V
+## ORIGINAL READ ME BELOW
+
 ---
 ## Ever tried to take a peek at your Accuracy while playing only to miss the next block?
 
