@@ -1,10 +1,10 @@
-﻿using IPA.Config.Stores;
 using System.Runtime.CompilerServices;
+using IPA.Config.Stores;
 
 [assembly: InternalsVisibleTo(GeneratedStore.AssemblyVisibilityTarget)]
-namespace FocusMod {
+namespace FocusMod.Configuration {
 	internal class PluginConfig {
-		public static PluginConfig Instance { get; set; }
+		public static PluginConfig? Instance { get; set; }
 
 		public virtual float LeadTime { get; set; } = 1.5f;
 		public virtual float MinimumDisplaytime { get; set; } = 0.5f;
