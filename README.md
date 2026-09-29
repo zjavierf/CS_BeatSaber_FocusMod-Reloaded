@@ -21,7 +21,7 @@ The Game version(s) specific releases are compatible with are mentioned in the R
 
 ## Features
 
-- Hide only the Score (Default) or the entire HUD (Other than the Song time)
+- Hide entire HUD (Default) or Keep Only the Time or Hide Score/Acc Only
 - Hide only in VR and keep it on the desktop
 - Minimum NJS the map needs to have for the plugin to be active
 - Configurable Timespans etc
